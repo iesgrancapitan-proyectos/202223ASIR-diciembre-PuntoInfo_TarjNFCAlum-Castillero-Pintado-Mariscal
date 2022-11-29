@@ -1,0 +1,11 @@
+.darkModeSwitch {
+    background: #3494b1;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 1rem;
+    align-items: center;
+    justify-content: space-between;
+}

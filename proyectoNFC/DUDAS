@@ -1,0 +1,13 @@
+-todo lo relacionado con altas, bajas modificaciones de profesores, alumnos y tarjetas en un solo archivo?
+
+-listado de tarjetas, profesores y alumnos en funciones.php
+
+-En el panel/pagina de administracion que quereis que haya exactamente?
+
+-Bajas en un solo archivo
+
+-Menus de alta(alumnos, profesores, tarjetas) en funciones
+
+Usar perfiles para moverse entre modo admin o user
+
+REHACER BBDD CON LA TABLA PERFILES 
