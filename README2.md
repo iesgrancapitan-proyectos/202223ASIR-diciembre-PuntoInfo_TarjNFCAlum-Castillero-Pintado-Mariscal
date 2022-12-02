@@ -20,9 +20,7 @@ Pueden ver el tutorial de descarga del entorno en el siguiente enlace.
     - PHP
     - JAVASCRIPT
 
-- Información del despliegue
-
-   - Para el despliegue de una AppWeb necesitamos la instancia con:
+- Para el despliegue de una AppWeb necesitamos la instancia con:
 
    - Apache
    - PHP
