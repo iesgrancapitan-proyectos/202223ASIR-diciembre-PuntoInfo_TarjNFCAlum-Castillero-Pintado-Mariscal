@@ -9,27 +9,27 @@ Pueden ver el tutorial de descarga del entorno en el siguiente enlace.
 
 - Para realizar nuestro proyecto se necesitan:
 
-    Instancia en el servidor del IES GRAN CAPITAN
-    Lector NFC
-    Tarjetas NFC
+    - Instancia en el servidor del IES GRAN CAPITAN
+    - Lector NFC
+    - Tarjetas NFC
 
 - Los lenguajes que hemos usado para la creación de todo el proyecto han sido:
 
-   - HTML
-   - CSS
-   - PHP
-   - JAVASCRIPT
+    - HTML
+    - CSS
+    - PHP
+    - JAVASCRIPT
 
-   - Información del despliegue
+- Información del despliegue
 
-   - Para el despliegue de una AppWeb necesitamos la instancia con:
+- Para el despliegue de una AppWeb necesitamos la instancia con:
 
    - Apache
    - PHP
    - MySQL/MariaDB
    - PhpMyAdmin
 
-  - Informacion sobre cómo usarlo
+- Informacion sobre cómo usarlo
 
   - Tiene un uso realmente intuitivo en el que solamente tendremos que pasar las tarjetas nfc. Aunque hemos creado unos manuales tanto como para el administrador       como para el usuario.
 
@@ -37,6 +37,6 @@ Pueden ver el tutorial de descarga del entorno en el siguiente enlace.
   - Manual Usuario
 
 
-  - Autores
+- Autores
 
 Rafael Castillero López | Miguel Angel Pintado | Javier Mariscal
