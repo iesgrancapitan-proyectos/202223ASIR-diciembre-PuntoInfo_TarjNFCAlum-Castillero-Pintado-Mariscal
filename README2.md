@@ -5,6 +5,8 @@
 Nuestro proyecto se centra en la mejora de una AppWeb que agiliza el tramite de ir al baño por parte de los profesores dentro del instituto. Consta de una base de datos propia, entorno propio y una conexión a la intranet del instituto donde consulta los datos.
 Pueden ver el tutorial de descarga del entorno en el siguiente enlace.
 
+El despliegue minimo que se necesita para poder ejecutar las instancias en docker es tener docker instalado en nuestro equipo con el WSL 2 (Subsistema que permite ejecutar aplicaciones de linux en windows), archivos correspondientes para su necesaria instalación.
+
 - [Tutorial Docker](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/Tutorial-Docker)
 
 - Para realizar nuestro proyecto se necesitan:
