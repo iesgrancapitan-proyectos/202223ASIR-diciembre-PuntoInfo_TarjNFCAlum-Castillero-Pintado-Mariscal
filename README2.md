@@ -40,4 +40,5 @@ El despliegue minimo que se necesita para poder ejecutar las instancias en docke
 - Autores
 
 Autores del proyecto: Rafael Castillero López | Miguel Angel Pintado | Javier Mariscal
+
 Supervisor: Mari Carmen Tripiana Profesora de Informática del IES Gran Capitán (Córdoba)
