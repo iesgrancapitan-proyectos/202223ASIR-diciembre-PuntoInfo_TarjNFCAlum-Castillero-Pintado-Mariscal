@@ -7,7 +7,7 @@ Pueden ver el tutorial de descarga del entorno en el siguiente enlace.
 
 El despliegue minimo que se necesita para poder ejecutar las instancias en docker es tener docker instalado en nuestro equipo con el WSL 2 (Subsistema que permite ejecutar aplicaciones de linux en windows), archivos correspondientes para su necesaria instalación.
 
-- [Tutorial Docker](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/Tutorial-Docker)
+- [Tutorial Docker](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/7.-Tutorial-Docker)
 
 - Para realizar nuestro proyecto se necesitan:
 
