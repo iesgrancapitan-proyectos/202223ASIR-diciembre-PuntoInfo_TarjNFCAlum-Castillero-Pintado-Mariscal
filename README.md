@@ -9,6 +9,14 @@ El despliegue minimo que se necesita para poder ejecutar las instancias en docke
 
 - [Tutorial Docker](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/7.-Tutorial-Docker)
 
+- Información Primaria para el despliegue de la web.
+    - Descargar el repositorio de [GITHUB](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal).
+    - Dirigirnos a la carpeta donde esta ubicado el archivo Docker Compose ("C:/Usuarios/Rafa/Docker/Docker_Compose/").
+    - Copiar la url donde esta ubicado el archivo docker compose y hacer un CD en powershell para dirigirnos a la ruta.
+    - Ejecutar docker-compose up -d para su correspondiente descarga.
+    - Copiar la web que esta ubicada en la carpeta de API y moverla a la carpeta (www) que crea el archivo docker compose para su implementación.
+    - Abrir el navegador web para su visionado.
+
 - Para realizar nuestro proyecto se necesitan:
 
     - Instancia en el servidor del IES GRAN CAPITAN
