@@ -41,8 +41,8 @@ El despliegue minimo que se necesita para poder ejecutar las instancias en docke
 
   - Tiene un uso realmente intuitivo en el que solamente tendremos que pasar las tarjetas nfc. Aunque hemos creado unos manuales tanto como para el administrador       como para el usuario.
 
-  - [Manual Administrador](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/9.1-Manual-administrador)
-  - [Manual Usuario](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/9.2-Manual-Usuario)
+  - [Manual Administrador](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/10.1-Manual-administrador)
+  - [Manual Usuario](https://github.com/iesgrancapitan-proyectos/202223ASIR-diciembre-PuntoInfo_TarjNFCAlum-Castillero-Pintado-Mariscal/wiki/10.2-Manual-Usuario)
 
 
 - Autores
